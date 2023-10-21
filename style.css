@@ -1,0 +1,17 @@
+body{
+    margin: 9px;
+}
+.mom{
+    width: 686px;
+    height: 464px;
+    background: #0019F9;
+    position: relative;
+}
+.child{
+    width: 253px;
+    height: 190px;
+    background: #F80303;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
